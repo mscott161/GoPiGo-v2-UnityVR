@@ -1,0 +1,17 @@
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\bin\ARM\Debug\Dexter.GoPiGo.dll
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\bin\ARM\Debug\Dexter.GoPiGo.pdb
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\bin\ARM\Debug\Dexter.GoPiGo.pri
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\Dexter.GoPiGo.csproj.CoreCompileInputs.cache
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\Dexter.GoPiGo.dll
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\Dexter.GoPiGo.pdb
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\priconfig.xml
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\layout.resfiles
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\layout.resfiles.intermediate
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\resources.resfiles
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\pri.resfiles
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\qualifiers.txt
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

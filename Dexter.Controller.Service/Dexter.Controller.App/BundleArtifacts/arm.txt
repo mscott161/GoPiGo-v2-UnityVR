@@ -1,0 +1,1 @@
+MainPackage=D:\Projects\Dexter.Controller.Service\Dexter.Controller.App\bin\ARM\Debug\Dexter.Controller.App_1.0.2.0_ARM_Debug.appx

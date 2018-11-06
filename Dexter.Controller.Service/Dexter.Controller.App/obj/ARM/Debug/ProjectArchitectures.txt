@@ -1,0 +1,3 @@
+D:\Projects\Dexter.Controller.Service\Dexter.Controller.App\Dexter.Controller.App.csproj;arm
+D:\Projects\Dexter.Controller.Service\Dexter.GoPiGo\Dexter.GoPiGo.csproj;arm
+D:\Projects\Dexter.Controller.Service\Windows.IoT.ServerService\Windows.IoT.ServerService.csproj;arm
